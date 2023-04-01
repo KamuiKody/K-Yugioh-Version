@@ -1,1 +1,1 @@
-Version 1.0.0 -- Release -- not yet reached.
+Version 1.0.1 -- Open source Queries
