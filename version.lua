@@ -1,1 +1,1 @@
-Version 1.0.1 -- Open source Queries
+Version 1.0.2 -- Auto update empty deck Identifiers
